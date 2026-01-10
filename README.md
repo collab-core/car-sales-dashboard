@@ -1,2 +1,3 @@
 # car-sales-dashboard
-Interactive Power BI dashboard analyzing car sales performance, trends, and key business KPIs.
+This project presents an interactive Power BI dashboard that provides insights into car sales performance, revenue trends, and key business metrics.
+
